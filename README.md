@@ -14,10 +14,7 @@
 
 ## Files
 - sales_data.csv
-- week4_day1.ipynb
-- week4_day2.ipynb
-- week4_day3.ipynb
-- week4_day4_summary.ipynb
+- week4.ipynb
 
 ## Environment
 - Python (Anaconda)
